@@ -1,4 +1,12 @@
 <?php
+// --Credit--
+// Medium: https://medium.com/@sirateek
+// Github: https://github.com/maiyarapkung
+// Develop with /\/\ By: Siratee K.
+//              \  /
+//               \/
+
+
   $LINEData = file_get_contents('php://input');
   $jsonData = json_decode($LINEData,true);
 
@@ -61,3 +69,10 @@
   $results = sendMessage($encodeJson,$lineData);
   echo $results;
   http_response_code(200);
+
+// --Credit--
+// Medium: https://medium.com/@sirateek
+// Github: https://github.com/maiyarapkung
+// Develop with /\/\ By: Siratee K.
+//              \  /
+//               \/
