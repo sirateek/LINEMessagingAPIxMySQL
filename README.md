@@ -5,3 +5,5 @@ Code ตัวอย่างสำหรับการใช้ LINE Messaging
 
 {การนำ Code ไปใช้}
 คุณสามารถนำโค็ดของผมไปใช้ได้เลยโดยไม่ติดลิขสิทธิ์ในการใช้งานครับ
+
+https://medium.com/@sirateek/line-messaging-api-mysql-database-10f52fdff121
